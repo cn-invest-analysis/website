@@ -1,4 +1,4 @@
-# CN PipelineIt website
+# CN Invest Analysis website
 
 [![CircleCI](https://circleci.com/gh/cn-invest-analysis/website/tree/master.svg?style=svg)](https://circleci.com/gh/cn-invest-analysis/website/tree/master)
 [![](https://img.shields.io/github/license/cn-invest-analysis/website)](https://github.com/cn-invest-analysis/website)
